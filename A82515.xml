@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additional ordinanace of the Lords and Commons in Parliament: to enable Sir Thomas Middleton knight, serjeant major generall for the sixe counties of North-Wales, to take subscriptions for the raising of forces, for reducing of the said counties to their due obedience, and prevention of the accesse of Irish forces into those parts. And further to enable the said Sir Thomas to put in execution all former ordinances made this present Parliament. Ordered by the Commons in Parliament, that this ordinance be forthwith printed and published. Hen. Elsynge Cler. Parl, Dom. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82515</idno>
+            <idno type="STC">Wing E1184</idno>
+            <idno type="STC">Thomason E33_29</idno>
+            <idno type="STC">ESTC R205438</idno>
+            <idno type="EEBO-CITATION">99859269</idno>
+            <idno type="PROQUEST">99859269</idno>
+            <idno type="VID">154594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154594)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E33[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additional ordinanace of the Lords and Commons in Parliament: to enable Sir Thomas Middleton knight, serjeant major generall for the sixe counties of North-Wales, to take subscriptions for the raising of forces, for reducing of the said counties to their due obedience, and prevention of the accesse of Irish forces into those parts. And further to enable the said Sir Thomas to put in execution all former ordinances made this present Parliament. Ordered by the Commons in Parliament, that this ordinance be forthwith printed and published. Hen. Elsynge Cler. Parl, Dom. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb. 21, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Middleton, Thomas, --  Sir, 1586-1666 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154594:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:154594:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>AN ADDITIONALL ORDINANCE OF The Lords and Commons in PARLIAMENT:</p>
+            <p>To enable Sir THOMAS MIDDLETON Knight, Serjeant Major Generall for the ſixe Counties of <hi>North-Wales,</hi> to take ſubſcrip<g ref="char:EOLhyphen"/>tions for the raiſing of Forces, for reducing of the ſaid Counties to their due obedi<g ref="char:EOLhyphen"/>ence, and prevention of the Ac<g ref="char:EOLhyphen"/>ceſſe of Iriſh Forces into thoſe parts.</p>
+            <p>And further to enable the ſaid Sir <hi>Thomas</hi> to put in execution all former Ordinances made this preſent PARLIAMENT.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, that this <hi>Ordinance</hi> be forth with Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſynge Cler. Parl, Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Edward Husbands,</hi> Feb. 21. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:154594:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="1" facs="tcp:154594:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>An additionall Ordinance.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſembled in Parliament, taking into their ſerious conſideration the preſent condition of the Counties of <hi>Salop</hi> and <hi>Cheſhire,</hi> and the dammage which may accrue to this Kingdome by the frequent lan<g ref="char:EOLhyphen"/>ding of Iriſh forces in the Counties of <hi>North-Wales,</hi> and joyning themſelves with ſuch Delinquents and Papiſts as are now in Armes in thoſe parts againſt the Parliament, and his Majeſties Soveraigne power and Authority therein reſiding, which tends to the ſubver<g ref="char:EOLhyphen"/>ſion of the ſundamentall conſtitution, Government and tranquility of this Realme, the Liberty and Priviled<g ref="char:EOLhyphen"/>ges of the Subjects and the Proteſtant Religion, with<g ref="char:EOLhyphen"/>in his Majeſties Dominions, have thought ſit that a timely courſe may be taken for prevention of the ac<g ref="char:EOLhyphen"/>ceſſe of any Iriſh forces into thoſe parts for the future, by the ſpedy reducing of the ſix Counties of <hi>North-Wales</hi> to their, due obedience to the Parliament.</p>
+            <p>For the effecting and compleating of which worke it is neceſſary that fiveteene hundred foote and three hundred horſe, be ſpeedily raiſed and levied with ſuffi<g ref="char:EOLhyphen"/>cient Armes, Ammunition, and money to pay them for ſix moneths next enſuing.</p>
+            <p>To which end and purpoſe, the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons (being well aſured of the fidelity and reſolution of Sir <hi>Thomas Middleton</hi> Knight one of the members of the Houſe of Commons and <hi>Sergeant-Major</hi> gene<g ref="char:EOLhyphen"/>rall of the parliament forces for the ſaid ſix Counties of <hi>North-Wales</hi>) Have Ordained, and be it Ordained by
+<pb n="2" facs="tcp:154594:3"/>
+               <!-- PDF PAGE 39 -->the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide Lords and Commons, that the ſaid Sir <hi>Tho. Middleton</hi> ſhall have, and hereby hath, full power and authority, to take the ſubſcriptions of all ſuch perſons as will voluntarily lend or contribute any ſumme or ſummes of money towards the raiſing and maintaining of the ſaid forces, buying of Armes and Ammunition, and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r other neceſſaries for the advancement of the ſaid ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvice, upon ſuch tearmes and conditions as the ſeverall lenders ſhall agree, which ſummes of money ſo to be ſubſcribed or lent as aforeſaid, the ſaid Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Middleton</hi> and his Aſſignes are hereby authorized to receive and imploy for the ſervice aforeſaid, and to give notes or acquittances for the ſeverall ſummes fore<g ref="char:EOLhyphen"/>ceived; which ſaid notes or acquittances ſhall be a ſuf<g ref="char:EOLhyphen"/>ficient ſp<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ciallty &amp; evidence for the ſeverall perſons, that ſhall lend or contribute any money as aforeſaid, to demand repayment thereof, with ſuch increaſe as ſhall be agreed upon, ſo as the ſame ſhall not exceed 81. <hi>per<g ref="char:EOLunhyphen"/>cent.</hi> And for the better inabling of the ſaid Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Middleton</hi> to make repayment of ſuch moneys as ſhall be lent for the purpoſes aforeſaid, and to per<g ref="char:EOLhyphen"/>forme ſuch conditions and agreements as the ſeverall ſubſcribers ſhall agree unto, and for the maintenance of the ſaid forces and advancement of the ſaid ſervice. Be it further ordained by the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons, that the ſaid Sir <hi>Thomas Middleton</hi> ſhall have and hereby hath, full power and authority to put in execution, within the, ſeverall Counties of <hi>Flint, Den<g ref="char:EOLhyphen"/>bigh, Mountgomery, Merioneth, Carnarvan,</hi> and <hi>Angleſey,</hi> the ſeverall Ordinances of this preſent Parliament hereafter mentioned, that is to ſay, the Ordinances for ſequeſtration of Delinquents and Papiſts Eſtates,
+<pb n="3" facs="tcp:154594:3"/>
+               <!-- PDF PAGE 39 -->the Ordinances for the levying of moneys by way of exciſe or new impoſt, the Ordinance for the raiſing of money by taxing ſuch as have not at all contributo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or not according to their eſtates, the Ordinance for the weekely Aſſeſſments, and all other Ordinances made this preſent Parliament for advance of mo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y through the whole Kingdome and Dominion of <hi>Wales,</hi> for the ſervice of the King and Parliament, and for the more ſpeedy raiſing of money for the repayment of ſuch ſummes as ſhall be raiſedby ſubſcriptions as a<g ref="char:EOLhyphen"/>foreſaid. Be it alſo ordained by the ſaid Lords and Commons, that the ſaid Sir <hi>Thomas Middleton</hi> ſhall have and hereby hath, full power and authority to ſet, and let, the Lands, Tenements and Hereditaments, of Delinquents, which ſhall be ſeized and ſequeſtred within the ſaid ſix Counties of <hi>North-Wales,</hi> or any of them from yeare to yeare, or by leaſe, or leaſes, untill the ſaid moneyes ſo ſubſcribed and payed be ſatisfied and diſcharged, and the conditions and agreements with the ſeverall lenders fully performed; And in caſe the ſaid lenders, ſhall not receive full ſatisfaction of their principall money to be lent as aforeſaid wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the intereſt thereof out of the Delinquents Eſtates, or otherwiſe before ſaid expreſſed, that then the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lenders and every of them ſhall have the publ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e faith of the Kingdome for the payment of ſuch ſummes of mony as ſhall be due unto them, and whereas the ſaid Counties of <hi>North-Wales</hi> are wholy ſubjected to the power and Tyranny of the Commiſsioners of Ar<g ref="char:EOLhyphen"/>ray, by reaſon whereof no Commiſsioners have been named in any of the ſaid Counties, for the putting in
+<pb n="2" facs="tcp:154594:4"/>
+               <!-- PDF PAGE 40 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:154594:4"/>
+               <!-- PDF PAGE 40 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:154594:5"/>
+               <!-- PDF PAGE 41 -->executio<g ref="char:cmbAbbrStroke">̄</g> of any of the ſaid Ordinances of Parliament</p>
+            <p>Be it alſo Ordained by the ſaid Lords and Co<g ref="char:cmbAbbrStroke">̄</g>mons that the ſaid Sir <hi>Thomas Middleton</hi> ſhal have, &amp; hereby hath full power and Authority to name and appoint Commiſſioners, Treaſurers, Receivers, Collectors and Agents within the ſaid Counties of <hi>North-Wales,</hi> for the putting in execution of all and every the Ordinances of Parliament, before mentioned, and of all other Ordi<g ref="char:EOLhyphen"/>nances of Parliament, wherein no Commiſsioners are named for the ſaid Counties, which ſaid Co<g ref="char:cmbAbbrStroke">̄</g>miſsioners and other perſons ſo to be named &amp; appointed by the ſaid Sir <hi>Tho: Middleton,</hi> ſhal by vertue of this preſent Or<g ref="char:EOLhyphen"/>dinance, have as full power &amp; Authority to put the ſaid reſpective Ordinances in execution, as if they were na<g ref="char:EOLhyphen"/>med by the two Houſes of Parliament, and their names incerted in the ſaid reſpective Ordinances. And be it al<g ref="char:EOLhyphen"/>ſo Ordained by the ſaid Lords &amp; Commons that the ſeverall ſumms of money which ſhall be ſent or ad<g ref="char:EOLhyphen"/>vancement of the ſaid ſervice, and ſuch increaſe as ſhall be due for every reſpective ſumme ſo let, according to the true intent and meaning of this Ordinance, ſhall be ſatisfied and payed out of the firſt money that ſhall be raiſed within the ſaid Counties of <hi>North-Wales</hi> by ver<g ref="char:EOLhyphen"/>tue of the forementioned Ordinances, and of this pre<g ref="char:EOLhyphen"/>ſent Ordinance: And the ſaid Sir <hi>Tho: Middleton</hi> is here<g ref="char:EOLhyphen"/>by enabled and authoriſed to require &amp; take accompts from time to time of the ſaid Commiſsioners, Treaſu<g ref="char:EOLhyphen"/>rers and other perſons, of their doings and proceedings therein, and to give ſuch fitting and reaſonable allow<g ref="char:EOLhyphen"/>ance unto ſuch perſons as ſhall bee employed in the execution of the Ordinances aforeſaid, and of this pre<g ref="char:EOLhyphen"/>ſent Ordinance, or any of them, for their pains and char<g ref="char:EOLhyphen"/>ges
+<pb n="5" facs="tcp:154594:5"/>
+               <!-- PDF PAGE 41 -->therein, as the ſaid Sir <hi>Tho: Middleton</hi> ſhall thinke ſit, provided, that ſuch allowance ſhall not exceed the reſpective rates allowed in the City of <hi>London</hi> and o<g ref="char:EOLhyphen"/>ther parts of the Kingdome; for the putting of the ſaid Ordinances in execution. And be it further Ordained that the rents and profits of the Waterworke brought to London by Sir <hi>Hugh Middleton</hi> Baronet deceaſed, be<g ref="char:EOLhyphen"/>longing to his Majeſty, or to any delinquent, ſhall from time to time be paid unto the ſaid Sir <hi>Tho: Middleton</hi> to bee employed in the ſaid ſervice, and that Delin<g ref="char:EOLhyphen"/>quents perſonall eſtates within the Cities of <hi>London</hi> and <hi>Weſtminſter;</hi> and the Suburbs thereof, not yet ſe<g ref="char:EOLhyphen"/>queſtred nor diſcovered, and which ſhall be diſcovered by the ſaid Sir <hi>Tho: Middleton,</hi> within one moneth next after the publiſhing of this Ordinance in print, ſhall be allowed unto the ſaid Sir <hi>Tho: Middleton</hi> for the ad<g ref="char:EOLhyphen"/>vancement of the ſaid ſervice, provided alwayes that the ſaid concealed Eſtates doe not exceed the ſumme of 3000 pounds: And that the ſaid Sir <hi>Tho: Middleton</hi> doe not poſſeſſe himſelfe thereof before hee acquaint the Committee of Lords and Commons for Seque<g ref="char:EOLhyphen"/>ſtrations therewith, to the end they may judge of the delinquencie of the perſon before his eſtate be ſequen<g ref="char:EOLhyphen"/>ſtred and taken away.</p>
+            <p>And the ſaid Sir <hi>Tho: Middleton</hi> is hereby authoriſed to adminiſter the ſeverall Oathes ſpecified in the fore<g ref="char:EOLhyphen"/>ſaid Ordinances unto ſuch Commiſsioners and per<g ref="char:EOLhyphen"/>ſons, as by the true meaning of the ſaid ordinances, of theſe preſents or any of them) ought to take the ſame. And be it further Ordained, That whatſoever the ſaid Sir <hi>Tho: Middleton,</hi> or any other perſon ſhall doe or
+<pb n="6" facs="tcp:154594:6"/>
+               <!-- PDF PAGE 42 -->cauſe to be done in perſuance to this or any other the ſaid Ordinances of Parliament, within the ſaid Coun<g ref="char:EOLhyphen"/>ties of <hi>North-Wales;</hi> the ſame is ratified &amp; confirmed by the power and authority of Parliament: And that the ſaid Sir <hi>Tho: Middleton</hi> ſhall render an accompt of all his doings and proceedings in the ſaid ſervice, to the two Houſes of Parliament: And that he, the ſaid Sir <hi>Tho: Middleton</hi> and all other perſons whatſoever, imployed in the execution of the ſaid Ordinances; or any of them, ſhal be ſaved and kept harmeleſſe in their perſons and Eſtates, for their doings and proceedings in the premiſes by the power and authority of Parli<g ref="char:EOLhyphen"/>ament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>ORdered by the Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment that this Ordinance be forthwith Prin<g ref="char:EOLhyphen"/>ted and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Hen. Elſynge.</hi> Cler. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
